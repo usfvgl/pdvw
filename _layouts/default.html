@@ -32,7 +32,7 @@
       </div>
 
       <div class="row">
-        <div class="col-md-4 col-md-push-8">
+        <div class="col-sm-4 col-sm-push-8">
           <div class="panel panel-default">
             <div class="panel-body">
               <h5 class="text-uppercase">Navigation</h4>
@@ -43,12 +43,12 @@
                 <li><a href="{{ site.github.url }}/2016/about.html"><span class="glyphicon glyphicon-info-sign"></span></a> <a href="{{ site.github.url }}/2016/about.html">About PDVW 2016</a></li>
               </ul>
 
-              <div class="visible-md-block visible-lg-block">
+              <div class="hidden-xs">
 
                 <h5 class="text-uppercase shift-down">Important Dates</h5>
 
                 <div class="table-responsive">
-                  <table class="table table-hover table-dates">
+                  <table class="table table-hover table-sidebar table-dates">
                     <tbody>
                       <tr>
                         <th>?/??/16</td>
@@ -75,6 +75,41 @@
 
                 <h5 class="text-uppercase">Organizers</h5>
 
+                <table class="table table-hover table-sidebar" style="width: auto;">
+                  <tbody>
+                    <tr>
+                      <td><a href="http://cs.usfca.edu/~apjoshi/">Alark Joshi</a></td>
+                      <td><span class="stateface stateface-ca">USF</span></td>
+                      <td><span class="label label-default">Chair</span></td>
+                    </tr>
+
+                    <tr>
+                      <td><a href="http://www.cond.org/">Eytan Adar</a></td>
+                      <td><span class="stateface stateface-mi">UMich</span></td>
+                      <td></td>
+                    </tr>
+
+                    <tr>
+                      <td><a href="http://sjengle.cs.usfca.edu/">Sophie Engle</a></td>
+                      <td><span class="stateface stateface-ca">USF</span></td>
+                      <td></td>
+                    </tr>
+
+                    <tr>
+                      <td><a href="http://people.ischool.berkeley.edu/~hearst/">Marti Hearst</a></td>
+                      <td><span class="stateface stateface-ca">UCB</span></td>
+                      <td></td>
+                    </tr>
+
+                    <tr>
+                      <td><a href="http://www-users.cs.umn.edu/~keefe/">Daniel Keefe</a></td>
+                      <td><span class="stateface stateface-mn">UMN</span></td>
+                      <td></td>
+                    </tr>
+                  </tbody>
+                </table>
+
+                <!--
                 <ul class="list-unstyled">
                   <li><a href="http://cs.usfca.edu/~apjoshi/">Alark Joshi</a>, USF &nbsp;<span class="label label-default">Chair</span></li>
                   <li><a href="http://www.cond.org/">Eytan Adar</a>, UMich</li>
@@ -82,6 +117,7 @@
                   <li><a href="http://people.ischool.berkeley.edu/~hearst/">Marti Hearst</a>, UCB</li>
                   <li><a href="http://www-users.cs.umn.edu/~keefe/">Daniel Keefe</a>, UMN</li>
                 </ul>
+                //-->
 
                 <h5 class="text-uppercase shift-down">Contact</h5>
 
@@ -114,7 +150,7 @@
           </div>
         </div>
 
-        <div class="col-md-8 col-md-pull-4">
+        <div class="col-sm-8 col-sm-pull-4">
           <h2 class="page-header">{{ page.title }}</h2>
 
           {{ content }}
