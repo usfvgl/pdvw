@@ -1,4 +1,4 @@
-.stateface:after {
+.stateface:before {
     font-family: StateFaceRegular;
     margin-left: 0.25em;
 }
@@ -10,218 +10,218 @@
     min-width: 1em;
 }
 
-.stateface-replace:after {
+.stateface-replace:before {
     position: absolute;
     left: 0;
     top: 0;
     text-indent: 0;
 }
 
-.stateface-ak:after {
+.stateface-ak:before {
     content: "A";
 }
 
-.stateface-al:after {
+.stateface-al:before {
     content: "B";
 }
 
-.stateface-ar:after {
+.stateface-ar:before {
     content: "C";
 }
 
-.stateface-az:after {
+.stateface-az:before {
     content: "D";
 }
 
-.stateface-ca:after {
+.stateface-ca:before {
     content: "E";
 }
 
-.stateface-co:after {
+.stateface-co:before {
     content: "F";
 }
 
-.stateface-ct:after {
+.stateface-ct:before {
     content: "G";
 }
 
-.stateface-dc:after {
+.stateface-dc:before {
     content: "y";
 }
 
-.stateface-de:after {
+.stateface-de:before {
     content: "H";
 }
 
-.stateface-fl:after {
+.stateface-fl:before {
     content: "I";
 }
 
-.stateface-ga:after {
+.stateface-ga:before {
     content: "J";
 }
 
-.stateface-hi:after {
+.stateface-hi:before {
     content: "K";
 }
 
-.stateface-ia:after {
+.stateface-ia:before {
     content: "L";
 }
 
-.stateface-id:after {
+.stateface-id:before {
     content: "M";
 }
 
-.stateface-il:after {
+.stateface-il:before {
     content: "N";
 }
 
-.stateface-in:after {
+.stateface-in:before {
     content: "O";
 }
 
-.stateface-ks:after {
+.stateface-ks:before {
     content: "P";
 }
 
-.stateface-ky:after {
+.stateface-ky:before {
     content: "Q";
 }
 
-.stateface-la:after {
+.stateface-la:before {
     content: "R";
 }
 
-.stateface-ma:after {
+.stateface-ma:before {
     content: "S";
 }
 
-.stateface-md:after {
+.stateface-md:before {
     content: "T";
 }
 
-.stateface-me:after {
+.stateface-me:before {
     content: "U";
 }
 
-.stateface-mi:after {
+.stateface-mi:before {
     content: "V";
 }
 
-.stateface-mn:after {
+.stateface-mn:before {
     content: "W";
 }
 
-.stateface-mo:after {
+.stateface-mo:before {
     content: "X";
 }
 
-.stateface-ms:after {
+.stateface-ms:before {
     content: "Y";
 }
 
-.stateface-mt:after {
+.stateface-mt:before {
     content: "Z";
 }
 
-.stateface-nc:after {
+.stateface-nc:before {
     content: "a";
 }
 
-.stateface-nd:after {
+.stateface-nd:before {
     content: "b";
 }
 
-.stateface-ne:after {
+.stateface-ne:before {
     content: "c";
 }
 
-.stateface-nh:after {
+.stateface-nh:before {
     content: "d";
 }
 
-.stateface-nj:after {
+.stateface-nj:before {
     content: "e";
 }
 
-.stateface-nm:after {
+.stateface-nm:before {
     content: "f";
 }
 
-.stateface-nv:after {
+.stateface-nv:before {
     content: "g";
 }
 
-.stateface-ny:after {
+.stateface-ny:before {
     content: "h";
 }
 
-.stateface-oh:after {
+.stateface-oh:before {
     content: "i";
 }
 
-.stateface-ok:after {
+.stateface-ok:before {
     content: "j";
 }
 
-.stateface-or:after {
+.stateface-or:before {
     content: "k";
 }
 
-.stateface-pa:after {
+.stateface-pa:before {
     content: "l";
 }
 
-.stateface-ri:after {
+.stateface-ri:before {
     content: "m";
 }
 
-.stateface-sc:after {
+.stateface-sc:before {
     content: "n";
 }
 
-.stateface-sd:after {
+.stateface-sd:before {
     content: "o";
 }
 
-.stateface-tn:after {
+.stateface-tn:before {
     content: "p";
 }
 
-.stateface-tx:after {
+.stateface-tx:before {
     content: "q";
 }
 
-.stateface-us:after {
+.stateface-us:before {
     content: "z";
 }
 
-.stateface-ut:after {
+.stateface-ut:before {
     content: "r";
 }
 
-.stateface-va:after {
+.stateface-va:before {
     content: "s";
 }
 
-.stateface-vt:after {
+.stateface-vt:before {
     content: "t";
 }
 
-.stateface-wa:after {
+.stateface-wa:before {
     content: "u";
 }
 
-.stateface-wi:after {
+.stateface-wi:before {
     content: "v";
 }
 
-.stateface-wv:after {
+.stateface-wv:before {
     content: "w";
 }
 
-.stateface-wy:after {
+.stateface-wy:before {
     content: "x";
 }
 

@@ -14,12 +14,12 @@ body {
   margin-top: 0px;
 }
 
-table.table-dates > tbody > tr > td,
-table.table-dates > tbody > tr > th,
-table.table-dates > tfoot > tr > td,
-table.table-dates > tfoot > tr > th,
-table.table-dates > thead > tr > td,
-table.table-dates > thead > tr > th {
+table.table-sidebar > tbody > tr > td,
+table.table-sidebar > tbody > tr > th,
+table.table-sidebar > tfoot > tr > td,
+table.table-sidebar > tfoot > tr > th,
+table.table-sidebar > thead > tr > td,
+table.table-sidebar > thead > tr > th {
   border: 0px !important;
   padding: 2px 4px;
 }
