@@ -47,3 +47,8 @@ table.table-dates > thead > tr > td {
   font-weight: normal;
   font-style: normal;
 }
+
+.indent {
+  padding-left: 1.25em;
+}
+
