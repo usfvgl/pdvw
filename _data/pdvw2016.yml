@@ -1,0 +1,93 @@
+abstracts:
+  - title   : "Teaching Data Visualization in evl's Cyber-Commons Classroom"
+    authors :
+      - 'Andrew Johnson'
+    file    : 'Johnson.pdf'
+
+  - title   : 'Tool for Teaching Visualization Techniques: Learning and Homework Assignments for Multivariate Data Visualization'
+    authors :
+      - 'Tatiana von Landesberger'
+      - 'Felix Brodkorb'
+      - 'Philipp Schneider'
+      - 'Kathrin Ballweg'
+    file    : 'Landesberger.pdf'
+
+  - title   : 'Using VisKit: A Manual for Running a Constructive Visualization Workshop'
+    authors :
+      - 'Samuel Huron'
+      - 'Sheelagh Carpendale'
+      - 'Jeremy Boy'
+      - 'Jean Daniel Fekete'
+    file    : 'Huron.pdf'
+
+  - title   : 'Leveraging Biological Inspiration in an Information Visualization Class'
+    authors :
+      - 'Marjan Eggermont'
+      - 'Charles Perin'
+      - 'Bon Adriel Aseniero'
+      - 'Roxane Fallah'
+      - 'Sheelagh Carpendale'
+    file    : 'Eggermont.pdf'
+
+  - title   : 'Active Learning Assignments for Student Acquisition of Design Principles'
+    authors :
+      - 'Marti A. Hearst'
+    file    : 'Hearst.pdf'
+
+  - title   : 'Challenges and Solutions for Short-Form Data Visualization Instruction'
+    authors :
+      - 'Angela Zoss'
+    file    : 'Zoss.pdf'
+
+  - title   : 'Teaching Visualization for Large and Diverse Classes on Campus and Online'
+    authors :
+      - 'Johanna Beyer'
+      - 'Hendrik Strobelt'
+      - 'Michael Oppermann'
+      - 'Louis Deslauriers'
+      - 'Hanspeter Pfister'
+    file    : 'Beyer.pdf'
+
+  - title   : 'Using Pedagogic Design Patterns for Teaching and Learning Information Visualization'
+    authors :
+      - 'Brock Craft'
+      - 'Robin-Martin Emerson'
+      - 'Taylor Jackson Scott'
+    file    : 'Craft.pdf'
+
+  - title   : 'Minor Adventures in Flipped Classrooms, Team-based Learning, and other Pedagogical Buzzwords'
+    authors :
+      - 'Penny Rheingans'
+    file    : 'Rheingans.pdf'
+
+  - title   : "Let's Play: Design Games and Other Strategies for Introducing Visualization through Active Learning"
+    authors :
+      - 'Alex Godwin'
+    file    : 'Godwin.pdf'
+
+  - title   : 'A Constructive Classroom Exercise for Teaching InfoVis'
+    authors :
+      - 'Wesley Willett'
+      - 'Samuel Huron'
+    file    : 'Willett.pdf'
+
+  - title   : 'A Data Visualization Course at The University of Paderborn'
+    authors :
+      - 'Gitta Domik'
+    file    : 'Domik.pdf'
+
+  - title   : 'Algebraic Visualization Design for Pedagogy'
+    authors :
+      - 'Gordon Kindlmann'
+      - 'Carlos Scheidegger'
+    file    : 'Kindlmann.pdf'
+
+  - title   : "Students' Prior Knowledge of Data Visualization"
+    authors :
+      - 'Eni Mustafaraj'
+    file    : 'Mustafaraj.pdf'
+
+  - title   : 'Teaching Information Visualization'
+    authors :
+      - 'Robert Spence'
+    file    : 'Spence.pdf'

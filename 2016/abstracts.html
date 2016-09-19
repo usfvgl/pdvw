@@ -1,0 +1,11 @@
+---
+layout: pdvw2016
+title: Accepted Abstracts
+---
+
+{% assign abstracts = site.data.pdvw2016.abstracts | sort: 'file' %}
+
+{% for abstract in abstracts %}
+<p><strong><a href="{{ site.github.url }}/2016/abstracts/{{ abstract.file }}">{{ abstract.title }}</a></strong><br/>
+<span class="text-muted">By {% if abstract.authors.size <= 2 %}{{ abstract.authors | join: ' and ' }}{% else %}{% for author in abstract.authors %}{% if forloop.last %}and {% endif %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span></p>
+{% endfor %}
