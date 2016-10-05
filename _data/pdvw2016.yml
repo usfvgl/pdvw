@@ -3,6 +3,7 @@ abstracts:
     authors :
       - 'Andrew Johnson'
     file    : 'Johnson.pdf'
+    panel   : 'Curriculum Design'
 
   - title   : 'Tool for Teaching Visualization Techniques: Learning and Homework Assignments for Multivariate Data Visualization'
     authors :
@@ -11,6 +12,7 @@ abstracts:
       - 'Philipp Schneider'
       - 'Kathrin Ballweg'
     file    : 'Landesberger.pdf'
+    panel   : 'Focus on Design'
 
   - title   : 'Using VisKit: A Manual for Running a Constructive Visualization Workshop'
     authors :
@@ -19,6 +21,7 @@ abstracts:
       - 'Jeremy Boy'
       - 'Jean Daniel Fekete'
     file    : 'Huron.pdf'
+    panel   : 'Pedagogical Structures'
 
   - title   : 'Leveraging Biological Inspiration in an Information Visualization Class'
     authors :
@@ -28,16 +31,19 @@ abstracts:
       - 'Roxane Fallah'
       - 'Sheelagh Carpendale'
     file    : 'Eggermont.pdf'
+    panel   : 'Focus on Theory'
 
   - title   : 'Active Learning Assignments for Student Acquisition of Design Principles'
     authors :
       - 'Marti A. Hearst'
     file    : 'Hearst.pdf'
+    panel   : 'Pedagogical Structures'
 
   - title   : 'Challenges and Solutions for Short-Form Data Visualization Instruction'
     authors :
       - 'Angela Zoss'
     file    : 'Zoss.pdf'
+    panel   : 'Curriculum Design'
 
   - title   : 'Teaching Visualization for Large and Diverse Classes on Campus and Online'
     authors :
@@ -47,6 +53,7 @@ abstracts:
       - 'Louis Deslauriers'
       - 'Hanspeter Pfister'
     file    : 'Beyer.pdf'
+    panel   : 'Curriculum Design'
 
   - title   : 'Using Pedagogic Design Patterns for Teaching and Learning Information Visualization'
     authors :
@@ -54,40 +61,48 @@ abstracts:
       - 'Robin-Martin Emerson'
       - 'Taylor Jackson Scott'
     file    : 'Craft.pdf'
+    panel   : 'Focus on Theory'
 
   - title   : 'Minor Adventures in Flipped Classrooms, Team-based Learning, and other Pedagogical Buzzwords'
     authors :
       - 'Penny Rheingans'
     file    : 'Rheingans.pdf'
+    panel   : 'Curriculum Design'
 
   - title   : "Let's Play: Design Games and Other Strategies for Introducing Visualization through Active Learning"
     authors :
       - 'Alex Godwin'
     file    : 'Godwin.pdf'
+    panel   : 'Focus on Design'
 
   - title   : 'A Constructive Classroom Exercise for Teaching InfoVis'
     authors :
       - 'Wesley Willett'
       - 'Samuel Huron'
     file    : 'Willett.pdf'
+    panel   : 'Pedagogical Structures'
 
   - title   : 'A Data Visualization Course at The University of Paderborn'
     authors :
       - 'Gitta Domik'
     file    : 'Domik.pdf'
+    panel   : 'Curriculum Design'
 
   - title   : 'Algebraic Visualization Design for Pedagogy'
     authors :
       - 'Gordon Kindlmann'
       - 'Carlos Scheidegger'
     file    : 'Kindlmann.pdf'
+    panel   : 'Focus on Theory'
 
   - title   : "Students' Prior Knowledge of Data Visualization"
     authors :
       - 'Eni Mustafaraj'
     file    : 'Mustafaraj.pdf'
+    panel   : 'Focus on Design'
 
   - title   : 'Teaching Information Visualization'
     authors :
       - 'Robert Spence'
     file    : 'Spence.pdf'
+    panel   : 'Focus on Design'

@@ -14,6 +14,10 @@ body {
   margin-top: 0px;
 }
 
+td h5 {
+  margin-top: 0px;
+}
+
 table.table-sidebar > tbody > tr > td,
 table.table-sidebar > tbody > tr > th,
 table.table-sidebar > tfoot > tr > td,
