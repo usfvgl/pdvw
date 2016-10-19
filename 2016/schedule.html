@@ -25,7 +25,7 @@ title: Workshop Schedule
     <td>&ndash;</td>
     <td>2:55pm</td>
     <td>
-        <h5 class="text-uppercase">Panel: Curriculum Design<br/><small>Moderator: TBA</small></h5>
+        <h5 class="text-uppercase">Panel: Curriculum Design<br/><small>Moderator: Eytan Adar</small></h5>
         {% for abstract in abstracts %}{% if abstract.panel == "Curriculum Design" %}<p><strong><a href="{{ site.github.url }}/2016/abstracts/{{ abstract.file }}">{{ abstract.title }}</a></strong> <span class="text-muted">by {% if abstract.authors.size <= 2 %}{{ abstract.authors | join: ' and ' }}{% else %}{% for author in abstract.authors %}{% if forloop.last %}and {% endif %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span></p>{% endif %}{% endfor %}
     </td>
 </tr>
@@ -34,7 +34,7 @@ title: Workshop Schedule
     <td>&ndash;</td>
     <td>3:40pm</td>
     <td>
-        <h5 class="text-uppercase">Panel: Pedagogical Structures<br/><small>Moderator: TBA</small></h5>
+        <h5 class="text-uppercase">Panel: Pedagogical Structures<br/><small>Moderator: Sophie Engle</small></h5>
         {% for abstract in abstracts %}{% if abstract.panel == "Pedagogical Structures" %}<p><strong><a href="{{ site.github.url }}/2016/abstracts/{{ abstract.file }}">{{ abstract.title }}</a></strong> <span class="text-muted">by {% if abstract.authors.size <= 2 %}{{ abstract.authors | join: ' and ' }}{% else %}{% for author in abstract.authors %}{% if forloop.last %}and {% endif %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span></p>{% endif %}{% endfor %}
     </td>
 </tr>
@@ -49,7 +49,7 @@ title: Workshop Schedule
     <td>&ndash;</td>
     <td>5:00pm</td>
     <td>
-        <h5 class="text-uppercase">Panel: Focus on Theory<br/><small>Moderator: TBA</small></h5>
+        <h5 class="text-uppercase">Panel: Focus on Theory<br/><small>Moderator: Daniel Keefe</small></h5>
         {% for abstract in abstracts %}{% if abstract.panel == "Focus on Theory" %}<p><strong><a href="{{ site.github.url }}/2016/abstracts/{{ abstract.file }}">{{ abstract.title }}</a></strong> <span class="text-muted">by {% if abstract.authors.size <= 2 %}{{ abstract.authors | join: ' and ' }}{% else %}{% for author in abstract.authors %}{% if forloop.last %}and {% endif %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span></p>{% endif %}{% endfor %}
     </td>
 </tr>
@@ -58,7 +58,7 @@ title: Workshop Schedule
     <td>&ndash;</td>
     <td>5:45pm</td>
     <td>
-        <h5 class="text-uppercase">Panel: Focus on Design<br/><small>Moderator: TBA</small></h5>
+        <h5 class="text-uppercase">Panel: Focus on Design<br/><small>Moderator: Alark Joshi</small></h5>
         {% for abstract in abstracts %}{% if abstract.panel == "Focus on Design" %}<p><strong><a href="{{ site.github.url }}/2016/abstracts/{{ abstract.file }}">{{ abstract.title }}</a></strong> <span class="text-muted">by {% if abstract.authors.size <= 2 %}{{ abstract.authors | join: ' and ' }}{% else %}{% for author in abstract.authors %}{% if forloop.last %}and {% endif %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</span></p>{% endif %}{% endfor %}
     </td>
 </tr>
