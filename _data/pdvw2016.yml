@@ -67,7 +67,7 @@ abstracts:
     authors :
       - 'Penny Rheingans'
     file    : 'Rheingans.pdf'
-    panel   : 'Curriculum Design'
+    panel   : 'Focus on Design'
 
   - title   : "Let's Play: Design Games and Other Strategies for Introducing Visualization through Active Learning"
     authors :
@@ -105,4 +105,3 @@ abstracts:
     authors :
       - 'Robert Spence'
     file    : 'Spence.pdf'
-    panel   : 'Focus on Design'
