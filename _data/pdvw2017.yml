@@ -1,0 +1,56 @@
+abstracts:
+  - title   : "Leveraging Peer Review in Visualization Education: A Proposal for a New Model"
+    authors :
+      - 'Alon Friedman'
+      - 'Paul Rosen'
+    file    : 'pdvw0100-paper.pdf'
+
+  - title   : 'Worksheets for Guiding Novices through the Visualization Design Process'    
+    authors :
+      - 'Sean McKenna'
+      - 'Alexander Lex'
+      - 'Miriah Meyer'
+    file    : 'pdvw0102-paper.pdf'
+
+  - title   : 'Visualization Education Through Social Impact: A Service-Learning Approach for Visualization Pedagogy'
+    authors :
+      - 'Michelle Borkin'
+      - 'Zirui Yan'
+      - 'Britton Horn'
+      - 'Lisa Roe'
+      - 'Becca Berkey'
+    file    : 'pdvw103-paper.pdf'
+
+  - title   : 'Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching'
+    authors :
+      - 'Jonathan Roberts'
+      - 'Panagiotis Ritsos'
+      - 'Christopher Headleand'
+    file    : 'pdvw104-paper.pdf'
+    
+  - title   : 'Teaching Image Processing and Visualization Principles to Medicine Students'
+    authors :
+      - 'Christina Gillmann'
+      - 'Thomas Wischgoll'
+      - 'Jose Tiberio Hernandez'
+      - 'Hans Hagen'
+    file    : 'pdvw105-paper.pdf'
+
+  - title   : 'Blending tools for a Smooth Introduction to 3D Geovisualization'
+    authors :
+      - 'Laura Tateosian'
+      - 'Payam Tabrizian'
+    file    : 'pdvw106-paper.pdf'
+    
+  - title   : 'On Teaching Narrative Infographics in an Information Visualization Course'    
+    authors :
+      - 'Marti Hearst'
+    file    : 'pdvw107-paper.pdf'
+    
+  - title   : 'Exploring Important and Difficult Concepts to Learn in Information Visualization'
+    authors :
+      - 'Camilio Vieira'
+      - 'Paul Parsons'
+      - 'Vetria Byrd'
+    file    : 'pdvw108-paper.pdf'
+    
