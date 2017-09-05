@@ -19,14 +19,14 @@ abstracts:
       - 'Britton Horn'
       - 'Lisa Roe'
       - 'Becca Berkey'
-    file    : 'pdvw103-paper.pdf'
+    file    : 'pdvw0103-paper.pdf'
 
   - title   : 'Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching'
     authors :
       - 'Jonathan Roberts'
       - 'Panagiotis Ritsos'
       - 'Christopher Headleand'
-    file    : 'pdvw104-paper.pdf'
+    file    : 'pdvw0104-paper.pdf'
     
   - title   : 'Teaching Image Processing and Visualization Principles to Medicine Students'
     authors :
@@ -34,23 +34,23 @@ abstracts:
       - 'Thomas Wischgoll'
       - 'Jose Tiberio Hernandez'
       - 'Hans Hagen'
-    file    : 'pdvw105-paper.pdf'
+    file    : 'pdvw0105-paper.pdf'
 
   - title   : 'Blending tools for a Smooth Introduction to 3D Geovisualization'
     authors :
       - 'Laura Tateosian'
       - 'Payam Tabrizian'
-    file    : 'pdvw106-paper.pdf'
+    file    : 'pdvw0106-paper.pdf'
     
   - title   : 'On Teaching Narrative Infographics in an Information Visualization Course'    
     authors :
       - 'Marti Hearst'
-    file    : 'pdvw107-paper.pdf'
+    file    : 'pdvw0107-paper.pdf'
     
   - title   : 'Exploring Important and Difficult Concepts to Learn in Information Visualization'
     authors :
       - 'Camilio Vieira'
       - 'Paul Parsons'
       - 'Vetria Byrd'
-    file    : 'pdvw108-paper.pdf'
+    file    : 'pdvw0108-paper.pdf'
     
