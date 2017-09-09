@@ -3,15 +3,14 @@ abstracts:
     authors :
       - 'Alon Friedman'
       - 'Paul Rosen'
-    file    : 'pdvw0100-paper.pdf'
+    
 
   - title   : 'Worksheets for Guiding Novices through the Visualization Design Process'    
     authors :
       - 'Sean McKenna'
       - 'Alexander Lex'
       - 'Miriah Meyer'
-    file    : 'pdvw0102-paper.pdf'
-
+    
   - title   : 'Visualization Education Through Social Impact: A Service-Learning Approach for Visualization Pedagogy'
     authors :
       - 'Michelle Borkin'
@@ -19,14 +18,12 @@ abstracts:
       - 'Britton Horn'
       - 'Lisa Roe'
       - 'Becca Berkey'
-    file    : 'pdvw0103-paper.pdf'
-
+    
   - title   : 'Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching'
     authors :
       - 'Jonathan Roberts'
       - 'Panagiotis Ritsos'
       - 'Christopher Headleand'
-    file    : 'pdvw0104-paper.pdf'
     
   - title   : 'Teaching Image Processing and Visualization Principles to Medicine Students'
     authors :
@@ -34,23 +31,19 @@ abstracts:
       - 'Thomas Wischgoll'
       - 'Jose Tiberio Hernandez'
       - 'Hans Hagen'
-    file    : 'pdvw0105-paper.pdf'
-
+    
   - title   : 'Blending tools for a Smooth Introduction to 3D Geovisualization'
     authors :
       - 'Laura Tateosian'
       - 'Payam Tabrizian'
-    file    : 'pdvw0106-paper.pdf'
     
   - title   : 'On Teaching Narrative Infographics in an Information Visualization Course'    
     authors :
       - 'Marti Hearst'
-    file    : 'pdvw0107-paper.pdf'
     
   - title   : 'Exploring Important and Difficult Concepts to Learn in Information Visualization'
     authors :
       - 'Camilio Vieira'
       - 'Paul Parsons'
       - 'Vetria Byrd'
-    file    : 'pdvw0108-paper.pdf'
     
