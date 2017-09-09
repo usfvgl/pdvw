@@ -1,15 +1,18 @@
 abstracts:
-  - title   : "Leveraging Peer Review in Visualization Education: A Proposal for a New Model"
+  - title   : 'Leveraging Peer Review in Visualization Education: A Proposal for a New Model'
     authors :
       - 'Alon Friedman'
       - 'Paul Rosen'
-    
+    panel   : 'Pedagogical Reflections'
+
 
   - title   : 'Worksheets for Guiding Novices through the Visualization Design Process'    
     authors :
       - 'Sean McKenna'
       - 'Alexander Lex'
       - 'Miriah Meyer'
+    panel   : 'Techniques, Tools, and Experiences'
+
     
   - title   : 'Visualization Education Through Social Impact: A Service-Learning Approach for Visualization Pedagogy'
     authors :
@@ -18,12 +21,15 @@ abstracts:
       - 'Britton Horn'
       - 'Lisa Roe'
       - 'Becca Berkey'
+    panel   : 'Pedagogical Reflections'
+   
     
   - title   : 'Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching'
     authors :
       - 'Jonathan Roberts'
       - 'Panagiotis Ritsos'
       - 'Christopher Headleand'
+    panel   : 'Techniques, Tools, and Experiences'
     
   - title   : 'Teaching Image Processing and Visualization Principles to Medicine Students'
     authors :
@@ -31,19 +37,22 @@ abstracts:
       - 'Thomas Wischgoll'
       - 'Jose Tiberio Hernandez'
       - 'Hans Hagen'
-    
+    panel   : 'Techniques, Tools, and Experiences'
+
   - title   : 'Blending tools for a Smooth Introduction to 3D Geovisualization'
     authors :
       - 'Laura Tateosian'
       - 'Payam Tabrizian'
+    panel   : 'Techniques, Tools, and Experiences'
     
   - title   : 'On Teaching Narrative Infographics in an Information Visualization Course'    
     authors :
       - 'Marti Hearst'
+    panel   : 'Pedagogical Reflections'
     
   - title   : 'Exploring Important and Difficult Concepts to Learn in Information Visualization'
     authors :
       - 'Camilio Vieira'
       - 'Paul Parsons'
       - 'Vetria Byrd'
-    
+    panel   : 'Pedagogical Reflections'
